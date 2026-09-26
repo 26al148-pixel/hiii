@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My First Web Page</title>
+</head>
+
+<body>
+
+    <h1>Hello World!</h1>
+    <h2>Welcome to HTML</h2>
+
+    <p>This is my first HTML webpage.</p>
+
+    <a href="https://example.com">Visit Example</a>
+
+    <br><br>
+
+    <img src="image.jpg" alt="Sample Image" width="300">
+
+    <h3>My List</h3>
+    <ul>
+        <li>HTML</li>
+        <li>CSS</li>
+        <li>JavaScript</li>
+    </ul>
+
+    <button>Click Me</button>
+
+</body>
+</html>
